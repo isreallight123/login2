@@ -1,0 +1,25 @@
+a:hover{
+    text-decoration: none;
+    color:white;
+}
+
+input{
+    width: 80%;
+    padding: 30px;
+    margin:20px 100px;
+    box-sizing:border-box;
+    font-size:150%;
+
+}
+
+button{
+    font-size:250%;
+    color:white;
+    text-align: center;
+    padding:40px 100px;
+    margin:100px 500px;
+}
+
+label{
+    padding:150; 
+}
